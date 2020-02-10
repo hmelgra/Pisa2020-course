@@ -1,4 +1,4 @@
 # Course on Design-by-Contract and Behavioural Types
 
 # Material
-- [Presentation](presentation.pdf)
+- [Presentation](slides/0-presentation.pdf)
