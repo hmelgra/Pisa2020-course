@@ -8,9 +8,9 @@ If you are attending, please fill in this [form](https://forms.gle/pDKiWg9Nkunmb
 - [Binary session types in Ocaml - 14 Feb 2020](slides/2-Fuse.pdf)
 - [Design by Contract + PCF - 18 Feb 2020](slides/3-DbC.pdf)
 - [Findler & Felleisen - 20 Feb 2020](slides/3-DbC-b.pdf)
-- [FuSe + DbC - 20 Feb 2020](slides/4-Fuse-DbC.pdf)
+- [FuSe + DbC - 20 Feb 2020](slides/4-FuSe-DbC.pdf)
 
-# Reference
+# References
 - Simon J. Gay, Malcolm Hole:
 Subtyping for session types in the pi calculus. Acta Inf. 42(2-3): 191-225 (2005)
 - Vasco T. Vasconcelos:
