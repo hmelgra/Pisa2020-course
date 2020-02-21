@@ -9,6 +9,7 @@ If you are attending, please fill in this [form](https://forms.gle/pDKiWg9Nkunmb
 - [Design by Contract + PCF - 18 Feb 2020](slides/3-DbC.pdf)
 - [Findler & Felleisen - 20 Feb 2020](slides/3-DbC-b.pdf)
 - [FuSe + DbC - 20 Feb 2020](slides/4-FuSe-DbC.pdf)
+- [FuSe + DbC - 21 Feb 2020](slides/4-FuSe-DbC-B.pdf)
 
 # References
 - Simon J. Gay, Malcolm Hole:
