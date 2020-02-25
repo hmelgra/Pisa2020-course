@@ -10,7 +10,7 @@ If you are attending, please fill in this [form](https://forms.gle/pDKiWg9Nkunmb
 - [Findler & Felleisen - 20 Feb 2020](slides/3-DbC-b.pdf)
 - [FuSe + DbC - 20 Feb 2020](slides/4-FuSe-DbC.pdf)
 - [FuSe + DbC - 21 Feb 2020](slides/4-FuSe-DbC-B.pdf)
-
+- [Multiparty Session Types - 25 Feb 2020](slides/5-MST-A.pdf)
 # References
 - Simon J. Gay, Malcolm Hole:
 Subtyping for session types in the pi calculus. Acta Inf. 42(2-3): 191-225 (2005)
@@ -26,3 +26,5 @@ Contracts for higher-order functions. ICFP 2002: 48-59
 Correct blame for contracts: no more scapegoating. POPL 2011: 215-226
 - Hernán C. Melgratti, Luca Padovani:
 Chaperone contracts for higher-order sessions. PACMPL 1(ICFP): 35:1-35:29 (2017)
+- Kohei Honda, Nobuko Yoshida, Marco Carbone:
+Multiparty asynchronous session types. POPL 2008. 
