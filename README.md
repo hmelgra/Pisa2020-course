@@ -11,6 +11,12 @@ If you are attending, please fill in this [form](https://forms.gle/pDKiWg9Nkunmb
 - [FuSe + DbC - 20 Feb 2020](slides/4-FuSe-DbC.pdf)
 - [FuSe + DbC - 21 Feb 2020](slides/4-FuSe-DbC-B.pdf)
 - [Multiparty Session Types - 25 Feb 2020](slides/5-MST-A.pdf)
+- [Multiparty Session Types - 26 Feb 2020](slides/5-MST-B.pdf)
+- [MST+DbC - 27 Feb 2020](slides/6-MST+DbC.pdf)
+
+# Accessment
+- [Take-Home](assessment.pdf) to be finished by March 30th, 2020.
+
 # References
 - Simon J. Gay, Malcolm Hole:
 Subtyping for session types in the pi calculus. Acta Inf. 42(2-3): 191-225 (2005)
@@ -27,4 +33,5 @@ Correct blame for contracts: no more scapegoating. POPL 2011: 215-226
 - Hernán C. Melgratti, Luca Padovani:
 Chaperone contracts for higher-order sessions. PACMPL 1(ICFP): 35:1-35:29 (2017)
 - Kohei Honda, Nobuko Yoshida, Marco Carbone:
-Multiparty asynchronous session types. POPL 2008. 
+Multiparty asynchronous session types. POPL 2008.
+- Laura Bocchi, Kohei Honda, Emilio Tuosto, Nobuko Yoshida: A Theory of Design-by-Contract for Distributed Multiparty Interactions. CONCUR 2010.
