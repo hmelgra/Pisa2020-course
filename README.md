@@ -14,7 +14,7 @@ If you are attending, please fill in this [form](https://forms.gle/pDKiWg9Nkunmb
 - [Multiparty Session Types - 26 Feb 2020](slides/5-MST-B.pdf)
 - [MST+DbC - 27 Feb 2020](slides/6-MST+DbC.pdf)
 
-# Accessment
+# Assessment
 - [Take-Home](assessment.pdf) to be finished by March 30th, 2020.
 
 # References
